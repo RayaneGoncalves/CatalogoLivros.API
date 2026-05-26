@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFEYnCJNxlc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rayan\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\mongodb.bson\\3.8.1\\mongodb.bson.3.8.1.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\mongodb.driver\\3.8.1\\mongodb.driver.3.8.1.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\snappier\\1.3.1\\snappier.1.3.1.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
+    "C:\\Users\\rayan\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "O pacote 'SharpCompress' 0.30.1 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-6c8g-7p36-r338",
+      "projectPath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+      "libraryId": "SharpCompress",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
