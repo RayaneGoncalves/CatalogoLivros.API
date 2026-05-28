@@ -696,11 +696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+      "projectUniqueName": "C:\\Users\\rayan\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
       "projectName": "CatalogoLivros.API",
-      "projectPath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+      "projectPath": "C:\\Users\\rayan\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
       "packagesPath": "C:\\Users\\rayan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\obj\\",
+      "outputPath": "C:\\Users\\rayan\\CatalogoLivros.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rayan\\AppData\\Roaming\\NuGet\\NuGet.Config"

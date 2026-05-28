@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFEYnCJNxlc=",
+  "dgSpecHash": "HeBUiXHfyC4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+  "projectFilePath": "C:\\Users\\rayan\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rayan\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\rayan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
@@ -23,9 +23,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "O pacote 'SharpCompress' 0.30.1 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-6c8g-7p36-r338",
-      "projectPath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+      "projectPath": "C:\\Users\\rayan\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\rayan\\Desktop\\CatalogoLivros\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
+      "filePath": "C:\\Users\\rayan\\CatalogoLivros.API\\CatalogoLivros.API.csproj",
       "libraryId": "SharpCompress",
       "targetGraphs": [
         "net10.0"
