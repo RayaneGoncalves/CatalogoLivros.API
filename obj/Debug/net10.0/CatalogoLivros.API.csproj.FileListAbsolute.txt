@@ -83,3 +83,5 @@ C:\Users\rayan\CatalogoLivros.API\obj\Debug\net10.0\refint\CatalogoLivros.API.dl
 C:\Users\rayan\CatalogoLivros.API\obj\Debug\net10.0\CatalogoLivros.API.pdb
 C:\Users\rayan\CatalogoLivros.API\obj\Debug\net10.0\CatalogoLivros.API.genruntimeconfig.cache
 C:\Users\rayan\CatalogoLivros.API\obj\Debug\net10.0\ref\CatalogoLivros.API.dll
+C:\Users\rayan\CatalogoLivros.API\bin\Debug\net10.0\CatalogoLivros.API.staticwebassets.runtime.json
+C:\Users\rayan\CatalogoLivros.API\obj\Debug\net10.0\compressed\cop3v0wzad-{0}-yrgnmr2wcy-yrgnmr2wcy.gz
